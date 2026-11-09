@@ -1,6 +1,6 @@
 # Proyecto completo de machine learning. Trabajo individual.
 
-| Apellidos, Nombre | Proyecto |  Enlace   |
+| Apellidos, Nombre | Proyecto |  Enlace al repo del proyecto  |
 |-------------------|----------|-----------|
 | Apellidos, Nombre | Nombre del proyecto | [Enlace]()
 | Herranz Pascual, Lorena | Predicción del precio del gasóleo en las gasolineras de España |https://drive.google.com/file/d/1ViZ4995QXxDzQxHgZ_DAbHdilEjWYFTT/view?usp=sharing
