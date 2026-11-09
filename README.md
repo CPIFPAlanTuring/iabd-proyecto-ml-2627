@@ -3,5 +3,5 @@
 | Apellidos, Nombre | Proyecto |  Enlace   |
 |-------------------|----------|-----------|
 | Apellidos, Nombre | Nombre del proyecto | [Enlace]()
-| Meléndez Loreto | Daniel |  OpenPowerlifting (openpowerlifting.org)
+| Meléndez Loreto, Daniel | OpenPowerlifting (openpowerlifting.org) |  
 | Apellidos, Lorena | Predicción del precio del gasóleo en las gasolineras de España | [Enlace](https://datos.gob.es/es/catalogo/e05068001-precio-de-carburantes-en-las-gasolineras-espanolas) |
