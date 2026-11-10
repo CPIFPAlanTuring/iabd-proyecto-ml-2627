@@ -7,3 +7,4 @@
 | Meléndez Loreto, Daniel | OpenPowerlifting (openpowerlifting.org) |  
 | Fernández Sepúlveda, Roberto Samuel | Predicción de la producción solar en España (MW) a partir de las condiciones meteorológicas de cinco ciudades | 
 | Sánchez Lagos, Cristian | Predicción de riesgo de accidentes | https://github.com/csanlag861-dev/ml-accidentes | 
+| Díaz Plaza, Miriam | Predicción de retención de clientes | https://www.kaggle.com/datasets/blastchar/telco-customer-churn | 
