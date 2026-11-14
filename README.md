@@ -3,7 +3,7 @@
 | Apellidos, Nombre | Proyecto |  Enlace al repo del proyecto  |
 |-------------------|----------|-----------|
 | Apellidos, Nombre | Nombre del proyecto | [Enlace]()
-| Herranz Pascual, Lorena | Predicción del precio del gasóleo en las gasolineras de España |https://github.com/HerranzP-Lorena/Proyecto_ML_Lorena_Herranz
+| Herranz Pascual, Lorena | Predicción del precio del gasóleo en las gasolineras de España |
 | Meléndez Loreto, Daniel | OpenPowerlifting (openpowerlifting.org) |  
 | Fernández Sepúlveda, Roberto Samuel | Predicción de la producción solar en España (MW) a partir de las condiciones meteorológicas de cinco ciudades | 
 | Sánchez Lagos, Cristian | Predicción de riesgo de accidentes | https://github.com/csanlag861-dev/ml-accidentes | 
