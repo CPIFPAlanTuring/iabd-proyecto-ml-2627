@@ -3,6 +3,7 @@
 | Apellidos, Nombre | Proyecto |  Enlace al repo del proyecto  |
 |-------------------|----------|-----------|
 | Apellidos, Nombre | Nombre del proyecto | [Enlace]()
+| Bellón Payer, David | Predicción de rating de fondos Morningstar | https://www.kaggle.com/datasets/stefanoleone992/mutual-funds-and-etfs | 
 | Hermoso Silva, Elena | Predicción de aprobación de préstamos |
 | Herranz Pascual, Lorena | Predicción del precio del gasóleo en las gasolineras de España |
 | Meléndez Loreto, Daniel | OpenPowerlifting (openpowerlifting.org) |  
