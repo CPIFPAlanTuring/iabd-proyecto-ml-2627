@@ -12,3 +12,4 @@
 | Sánchez Lagos, Cristian | Predicción de riesgo de accidentes | https://github.com/csanlag861-dev/ml-accidentes | 
 | Sánchez Ramírez, Gloria | Predicción del impacto de la IA en estudiantes | https://www.kaggle.com/datasets/laveshjadon/ai-impact-on-students |
 | Díaz Plaza, Miriam | Predicción de retención de clientes | https://www.kaggle.com/datasets/blastchar/telco-customer-churn | 
+| Faura Martín, Lucas | Predicción precios de vehículos | https://www.kaggle.com/datasets/abdulmalik1518/cars-datasets-2025 | 
