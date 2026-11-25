@@ -8,7 +8,7 @@
 | Herranz Pascual, Lorena | Predicción del precio del gasóleo en las gasolineras de España |
 | Meléndez Loreto, Daniel | OpenPowerlifting (openpowerlifting.org) |  
 | Fernández Sepúlveda, Roberto Samuel | Predicción de la producción solar en España (MW) a partir de las condiciones meteorológicas de cinco ciudades |
-| Redondo Camacho, Guillermo | Predicción de lluvia según ciertas condiciones meteorológicas |
+| Redondo Camacho, Guillermo | Predicción de lluvia según ciertas condiciones meteorológicas | https://github.com/guilleodev/rainpredict-machine-learning
 | Sánchez Lagos, Cristian | Predicción de riesgo de accidentes | https://github.com/csanlag861-dev/ml-accidentes | 
 | Sánchez Ramírez, Gloria | Predicción del impacto de la IA en estudiantes | https://www.kaggle.com/datasets/laveshjadon/ai-impact-on-students |
 | Díaz Plaza, Miriam | Predicción de retención de clientes | https://www.kaggle.com/datasets/blastchar/telco-customer-churn | 
