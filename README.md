@@ -12,5 +12,5 @@
 | Sánchez Lagos, Cristian | Predicción de cómo quedará un piloto de F1 | https://github.com/csanlag861-dev/f1-position | 
 | Sánchez Ramírez, Gloria | Predicción del impacto de la IA en estudiantes | https://www.kaggle.com/datasets/laveshjadon/ai-impact-on-students |
 | Díaz Plaza, Miriam | Predicción de retención de clientes | https://www.kaggle.com/datasets/blastchar/telco-customer-churn | 
-| Faura Martín, Lucas | Predicción precios de vehículos | https://www.kaggle.com/datasets/abdulmalik1518/cars-datasets-2025 | 
+| Faura Martín, Lucas | Predicción precios de vehículos | https://github.com/LucasFaura18/Proyecto_ML_LFM | 
 | Márquez Ruiz, Samuel | Predicción del Gasto Turístico de los Residentes en España | https://github.com/SamuelMarquezRuiz/Predicci-n-del-Gasto-Tur-stico-de-los-Residentes-en-Espa-a.git | 
