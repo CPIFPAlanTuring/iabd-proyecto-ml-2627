@@ -10,7 +10,7 @@
 | Fernández Sepúlveda, Roberto Samuel | Predicción de la producción solar en España (MW) a partir de las condiciones meteorológicas de cinco ciudades | https://colab.research.google.com/drive/1CZjgcgOjQOPipzeZM1vRhqNYIaeL8dwm?usp=sharing
 | Redondo Camacho, Guillermo | Predicción de lluvia según ciertas condiciones meteorológicas | https://github.com/guilleodev/rainpredict-machine-learning
 | Sánchez Lagos, Cristian | Predicción de cómo quedará un piloto de F1 | https://github.com/csanlag861-dev/f1-position | 
-| Sánchez Ramírez, Gloria | Predicción del impacto de la IA en estudiantes | https://www.kaggle.com/datasets/laveshjadon/ai-impact-on-students |
+| Sánchez Ramírez, Gloria | Predicción del impacto de la IA en estudiantes | https://github.com/GloriaNSR/Proyecto_completo_ML_Impacto_IA.git |
 | Díaz Plaza, Miriam | Predicción de retención de clientes | https://www.kaggle.com/datasets/blastchar/telco-customer-churn | 
 | Faura Martín, Lucas | Predicción precios de vehículos | https://github.com/LucasFaura18/Proyecto_ML_LFM | 
 | Márquez Ruiz, Samuel | Predicción del Gasto Turístico de los Residentes en España | https://github.com/SamuelMarquezRuiz/Predicci-n-del-Gasto-Tur-stico-de-los-Residentes-en-Espa-a.git | 
