@@ -15,3 +15,4 @@
 | Faura Martín, Lucas | Predicción precios de vehículos | https://github.com/LucasFaura18/Proyecto_ML_LFM | 
 | Márquez Ruiz, Samuel | Predicción del Gasto Turístico de los Residentes en España | https://github.com/SamuelMarquezRuiz/Predicci-n-del-Gasto-Tur-stico-de-los-Residentes-en-Espa-a.git | 
 | Jiménez Muñoz, Álvaro | Predicción de ejecuciones en juicios por brujería en Europa | https://github.com/Almucero/IABD/blob/main/IA/proyecto_ml_brujeria.ipynb | 
+| Butrii, Sergii | Predicción de la energía de una canción Spotify | https://colab.research.google.com/drive/1W4USX3FaDqdq1YkMXfd0P8NDqR-gqE98 |
