@@ -13,4 +13,4 @@
 | Sánchez Ramírez, Gloria | Predicción del impacto de la IA en estudiantes | https://www.kaggle.com/datasets/laveshjadon/ai-impact-on-students |
 | Díaz Plaza, Miriam | Predicción de retención de clientes | https://www.kaggle.com/datasets/blastchar/telco-customer-churn | 
 | Faura Martín, Lucas | Predicción precios de vehículos | https://www.kaggle.com/datasets/abdulmalik1518/cars-datasets-2025 | 
-| Márquez Ruiz, Samuel | Predicción del Gasto Turístico de los Residentes en España | https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736176990&menu=resultados&secc=1254736195369&idp=1254735576863#_tabs-1254736195369 | 
+| Márquez Ruiz, Samuel | Predicción del Gasto Turístico de los Residentes en España | https://github.com/SamuelMarquezRuiz/Predicci-n-del-Gasto-Tur-stico-de-los-Residentes-en-Espa-a.git | 
