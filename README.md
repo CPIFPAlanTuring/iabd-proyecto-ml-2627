@@ -14,5 +14,5 @@
 | Díaz Plaza, Miriam | Predicción de retención de clientes | https://www.kaggle.com/datasets/blastchar/telco-customer-churn | 
 | Faura Martín, Lucas | Predicción precios de vehículos | https://github.com/LucasFaura18/Proyecto_ML_LFM | 
 | Márquez Ruiz, Samuel | Predicción del Gasto Turístico de los Residentes en España | https://github.com/SamuelMarquezRuiz/Predicci-n-del-Gasto-Tur-stico-de-los-Residentes-en-Espa-a.git | 
-| Jiménez Muñoz, Álvaro | Predicción de ejecuciones en juicios por brujería en Europa | https://github.com/Almucero/IABD/blob/main/IA/proyecto_ml_brujeria.ipynb | 
+| Jiménez Muñoz, Álvaro | Predicción de ejecuciones en juicios por brujería en Europa | https://github.com/Almucero/Proyecto-ML-brujeria | 
 | Butrii, Sergii | Predicción de la energía de una canción Spotify | https://github.com/Sergiibut05/Proyecto_ML_Spotify_Energy |
