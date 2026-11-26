@@ -16,3 +16,4 @@
 | Márquez Ruiz, Samuel | Predicción del Gasto Turístico de los Residentes en España | https://github.com/SamuelMarquezRuiz/Predicci-n-del-Gasto-Tur-stico-de-los-Residentes-en-Espa-a.git | 
 | Jiménez Muñoz, Álvaro | Predicción de ejecuciones en juicios por brujería en Europa | https://github.com/Almucero/Proyecto-ML-brujeria | 
 | Butrii, Sergii | Predicción de la energía de una canción Spotify | https://github.com/Sergiibut05/Proyecto_ML_Spotify_Energy |
+| Sánchez Jara, Alexander | Predicción de necesidad de tratamiento en salud mental | https://github.com/Reysanx/Proyecto-Machine-learning_SaludMental |
